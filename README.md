@@ -35,8 +35,8 @@ I believe one well-built project can start someone else's learning journey, so I
 
 | Project | What it does | Built with |
 |---|---|---|
-| [Project name](link) | One-line description | C++, Arduino |
-| [Project name](link) | One-line description | Python |
+| [automated fan] | trying out building with code | C++, Arduino |
+| [me 3d] | building my own 3d tracking software | Any language |
 | [100 Days of JavaScript](https://github.com/Dat-one-fish/100_days_of_java_script_0-o) | Daily JavaScript practice, one small program a day | JavaScript |
 
 ## 🎯 Where I'm headed
@@ -46,6 +46,10 @@ Studying **Mechatronics & Robotics Engineering** in University and building robo
 ## ⚡ Fun fact
 
 I like mangoes 🥭
+..I love stars..
+..I enjoy arts and crafts..
+..Building robots are fun for me..
+
 
 ---
 
